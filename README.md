@@ -7,5 +7,7 @@ First project N.
 
 
 1. Simple phonebook
-- Frontend: 
-- Backend:
+Functions: to store names and contacts
+- Frontend: React.js
+- Backend: Python
+- Linked database: 
